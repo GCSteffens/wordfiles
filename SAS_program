@@ -1,0 +1,7 @@
+/L15"SAS program files" Nocase Line Comment = * Block Comment On = /* Block Comment Off = */ String Chars = "' File Extensions = sas
+/Open Brace Strings = "(" "{" "["
+/Close Brace Strings = ")" "}" "]"
+/Open Fold Strings = "do" "data"
+/Close Fold Strings = "end" "run"
+/Indent Strings = "data" "do" "proc"
+/Unindent Strings = "run;" "end;" "quit;"
