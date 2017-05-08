@@ -1,0 +1,16 @@
+/L16"SAS log files" Nocase  Line Comment = * Block Comment On = /* Block Comment Off = */ String Chars = "' File Extensions = LOG
+/Open Brace Strings = "(" "{" "["
+/Close Brace Strings = ")" "}" "]"
+/Open Fold Strings = "do" "data"
+/Close Fold Strings = "end" "run"
+/C1"errors"
+error
+/C2"warnings"
+warning
+/C3"partial other problem messages"
+uninitialized
+endsas
+segmentation
+overwritten
+/C4"notes"
+NOTE
